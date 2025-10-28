@@ -115,16 +115,16 @@ You can replace these files with your own dataset as long as the structure remai
 ## 🖼️ Screenshots
 
 ### 🎬 Home Page
-![Home Screen](F:\movie_recommender_app\screenshots\mainpage.png)
+![Home Screen](screenshots/mainpage.png)
 
 ### 🎯 Recommendation Example
-![Recommendations](F:\movie_recommender_app\screenshots\photo1.png)
-![Recommendations](F:\movie_recommender_app\screenshots\photo2.png)
-![Recommendations](F:\movie_recommender_app\screenshots\photo3.png)
-![Recommendations](F:\movie_recommender_app\screenshots\photo4.png)
-![Recommendations](F:\movie_recommender_app\screenshots\photo5.png)
-![Recommendations](F:\movie_recommender_app\screenshots\photo6.png)
-![Recommendations](F:\movie_recommender_app\screenshots\photo7.png)
+![Recommendations](screenshots/photo1.png)
+![Recommendations](screenshots/photo2.png)
+![Recommendations](screenshots/photo3.png)
+![Recommendations](screenshots/photo4.png)
+![Recommendations](screenshots/photo5.png)
+![Recommendations](screenshots/photo6.png)
+![Recommendations](screenshots/photo7.png)
 
 
 
