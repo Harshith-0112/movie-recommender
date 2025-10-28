@@ -112,6 +112,22 @@ Only `movies.csv` and `ratings.csv` are required to generate the `movie_data.pkl
 
 You can replace these files with your own dataset as long as the structure remains the same.
 
+## 🖼️ Screenshots
+
+### 🎬 Home Page
+![Home Screen](screenshots/mainpage.png)
+
+### 🎯 Recommendation Example
+![Recommendations](screenshots/photo1.png)
+![Recommendations](screenshots/photo2.png)
+![Recommendations](screenshots/photo3.png)
+![Recommendations](screenshots/photo4.png)
+![Recommendations](screenshots/photo5.png)
+![Recommendations](screenshots/photo6.png)
+![Recommendations](screenshots/photo7.png)
+
+
+
 
 
 🧑‍💻 Author
