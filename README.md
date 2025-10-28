@@ -112,19 +112,19 @@ Only `movies.csv` and `ratings.csv` are required to generate the `movie_data.pkl
 
 You can replace these files with your own dataset as long as the structure remains the same.
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot
 
-### 🎬 Home Page
-![Home Screen](screenshots/mainpage.png)
+### 🎬 Main Page
+![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/mainpage.png)
+*Figure 1: Main page of the Movie Recommender app*
+![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo1.png)
+![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo2.png)
+![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo3.png)
+![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo4.png)
+![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo5.png)
+![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo6.png)
+![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo7.png)
 
-### 🎯 Recommendation Example
-![Recommendations](screenshots/photo1.png)
-![Recommendations](screenshots/photo2.png)
-![Recommendations](screenshots/photo3.png)
-![Recommendations](screenshots/photo4.png)
-![Recommendations](screenshots/photo5.png)
-![Recommendations](screenshots/photo6.png)
-![Recommendations](screenshots/photo7.png)
 
 
 
