@@ -120,7 +120,8 @@ You can replace these files with your own dataset as long as the structure remai
 ![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo1.png)
 ![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo2.png)
 ![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo3.png)
-![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo4.png)
+![Main Page](https://raw.githu<img width="1366" height="766" alt="mainpage" src="https://github.com/user-attachments/assets/8b4f5fc0-8462-4483-abec-f2245e49871c" />
+busercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo4.png)
 ![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo5.png)
 ![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo6.png)
 ![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo7.png)
