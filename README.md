@@ -115,7 +115,7 @@ You can replace these files with your own dataset as long as the structure remai
 ## 🖼️ Screenshot
 
 ### 🎬 Main Page
-![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/mainpage.png)
+ ![Main Page](https://github.com/Harshith-0112/movie-recommender/blob/main/screenshots/mainpage.png)
 *Figure 1: Main page of the Movie Recommender app*
 ![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo1.png)
 ![Main Page](https://raw.githubusercontent.com/Harshith-0112/movie-recommender/main/screenshots/photo2.png)
