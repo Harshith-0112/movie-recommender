@@ -33,6 +33,19 @@ movie-recommender/
 
 
 ---
+## 🖼️ Screenshot
+
+### 🎬 Main Page
+![mainpage jpg](https://github.com/user-attachments/assets/41927fb6-1bf4-47f4-b6e3-e5cb4d290e4b)
+![photo1](https://github.com/user-attachments/assets/618d54dc-07fe-4976-8374-7df804bcfd10)
+![photo2](https://github.com/user-attachments/assets/4966d0a8-6b69-4e6e-bf7f-71b7cd1ed5c4)
+![photo3](https://github.com/user-attachments/assets/f3f06416-642b-45eb-aab8-1580f9008e37)
+![photo4](https://github.com/user-attachments/assets/5805a3a8-7a3f-422a-938f-f2551f79ce05)
+![photo5](https://github.com/user-attachments/assets/4b2f1f6d-fc0e-45b4-a4c5-20e96e786e70)
+![photo6](https://github.com/user-attachments/assets/1261d46f-0d59-4a10-9417-5d5da65ba780)
+![photo7](https://github.com/user-attachments/assets/2b700c71-995a-4c03-93b6-a63087d06b41)
+
+
 
 ## ⚙️ Setup Instructions
 
@@ -111,14 +124,6 @@ Only `movies.csv` and `ratings.csv` are required to generate the `movie_data.pkl
 `tags.csv` and `links.csv` are included for completeness and potential future extensions.
 
 You can replace these files with your own dataset as long as the structure remains the same.
-
-## 🖼️ Screenshot
-
-### 🎬 Main Page
-![image alt](https://github.com/Harshith-0112/movie-recommender/blob/a6b5cf9b486e8bfa89d933a31db2ebdce0659b0e/screenshots/mainpage.png)
-![mainpage jpg](https://github.com/user-attachments/assets/41927fb6-1bf4-47f4-b6e3-e5cb4d290e4b)
-
-
 
 
 
