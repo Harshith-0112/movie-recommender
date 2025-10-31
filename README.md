@@ -116,7 +116,7 @@ You can replace these files with your own dataset as long as the structure remai
 
 ### 🎬 Main Page
 ![image alt](https://github.com/Harshith-0112/movie-recommender/blob/a6b5cf9b486e8bfa89d933a31db2ebdce0659b0e/screenshots/mainpage.png)
-
+![mainpage jpg](https://github.com/user-attachments/assets/41927fb6-1bf4-47f4-b6e3-e5cb4d290e4b)
 
 
 
